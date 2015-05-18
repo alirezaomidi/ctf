@@ -28,6 +28,7 @@ It says: **Close to the solution ...... ringzer0team.com**
 
 The central part of the image is a hint. Look with more care:
 ![Morse Code](hint2.png)
+
 It is dots and dashes. Yes! It is **Morse code**!
 Just Decode it to get the hint for SigID level 2. There is a morse code decoder [Here](http://morsecode.scphillips.com/translator.html).
 
