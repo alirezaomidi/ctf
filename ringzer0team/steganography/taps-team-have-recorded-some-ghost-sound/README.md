@@ -1,4 +1,4 @@
-# TAPS Team Have Recorded Some Ghost Sound
+# [TAPS Team Have Recorded Some Ghost Sound](http://ringzer0team.com/challenges/22)
 
 For this problem, we need an audio visualizer. Here We use [Sonic Visualizer](http://www.sonicvisualiser.org/download.html).
 

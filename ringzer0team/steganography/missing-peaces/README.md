@@ -1,4 +1,4 @@
-# Missing Peaces
+# [Missing Peaces](http://ringzer0team.com/challenges/129)
 
 In the down-right corner of the image, there is a QRCode. Just scan it!
 

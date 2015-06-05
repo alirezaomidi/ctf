@@ -1,4 +1,4 @@
-# Public Key Recovery
+# [Public Key Recovery](http://ringzer0team.com/challenges/50)
 
 In this problem we need an RSA tool. Here we use **OpenSSL** command line tool.
 
